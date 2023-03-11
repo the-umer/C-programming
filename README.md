@@ -7,6 +7,7 @@ This Repository contains collection of different C programs.
 - [Sorting](./programs/sorting/)
     - [Bubble Sort](./programs/sorting/bubblesort.c)
     - [Selection Sort](./programs/sorting/selectionsort.c)
+    - [Insertion Sort](./programs/sorting/Insertion_sort.c)
     - [Quick Sort](./programs/sorting/Quick_sort.c)
 
 - [Searching](./programs/searching/)
