@@ -9,6 +9,7 @@ This Repository contains collection of different C programs.
     - [Selection Sort](./programs/sorting/selectionsort.c)
     - [Insertion Sort](./programs/sorting/Insertion_sort.c)
     - [Quick Sort](./programs/sorting/Quick_sort.c)
+    - [Merge Sort](./programs/sorting/Merge_sort.c)
 
 - [Searching](./programs/searching/)
     - [Linear Search](./programs/searching/linearsearch.c)
