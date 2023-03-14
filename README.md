@@ -16,6 +16,7 @@ This Repository contains collection of different C programs.
     - [Binary Search](./programs/searching/binarysearch.c)
  
 - [Algorithms](./programs/algorithms/)
+    - [Warshell's Algo](./programs/algorithms/warshells_algo.c)
 
 - [Other Programs](./programs/others/)
    - [Multiplication of 2 numbers](./programs/others/2_number_multiplication.c)
