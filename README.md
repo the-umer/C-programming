@@ -17,6 +17,7 @@ This Repository contains collection of different C programs.
    
 - [Algorithms](./programs/Algorithms/)
       - [Warshel's Algo](./programs/Algorithms/warshells_algo.c)
+      - [Topological Order algo](./programs/Algorithms/topological_order.c)
 
 - [Other Programs](./programs/others/)
    - [Multiplication of 2 numbers](./programs/others/2_number_multiplication.c)
