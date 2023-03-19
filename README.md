@@ -21,6 +21,7 @@ This Repository contains collection of different C programs.
       - [Dijkstra's Algo](./programs/Algorithms/Dijkstra_algo.c)
       - [Minimum spanning tree algo](./programs/Algorithms/Minimum_spanning_tree.c)
       - [Prim's algo](./programs/Algorithms/Prim_algo.c)
+      - [Breadth First Search Algo](./programs/Algorithms/BFS_algo.c)
 - [Other Programs](./programs/others/)
    - [Multiplication of 2 numbers](./programs/others/2_number_multiplication.c)
    - [Multiplication of n numbers](./programs/others/multiplication_of_n_number.c)
