@@ -4,7 +4,7 @@ int main()
 {
     int n;
     float mul=1;
-    printf("Enter the total numbers to be multifplied:- ");
+    printf("Enter the total numbers to be multiplied:- ");
     scanf("%d",&n);
     for(int i=0;i<n;i++){
         float x;
@@ -12,7 +12,7 @@ int main()
         scanf("%f",&x);
         mul=mul*x;
     }
-    printf("multiplication of %d elements are: %.2f",n,mul);
+    printf("Multiplication of %d elements are: %.2f",n,mul);
 
     return 0;
 }
